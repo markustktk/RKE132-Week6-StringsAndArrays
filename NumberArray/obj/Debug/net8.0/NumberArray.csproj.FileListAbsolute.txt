@@ -1,0 +1,14 @@
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\bin\Debug\net8.0\NumberArray.exe
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\bin\Debug\net8.0\NumberArray.deps.json
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\bin\Debug\net8.0\NumberArray.runtimeconfig.json
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\bin\Debug\net8.0\NumberArray.dll
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\bin\Debug\net8.0\NumberArray.pdb
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net8.0\NumberArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net8.0\NumberArray.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net8.0\NumberArray.AssemblyInfo.cs
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net8.0\NumberArray.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net8.0\NumberArray.dll
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net8.0\refint\NumberArray.dll
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net8.0\NumberArray.pdb
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net8.0\NumberArray.genruntimeconfig.cache
+C:\Users\marku\source\repos\Week6StringsAndArrays\NumberArray\obj\Debug\net8.0\ref\NumberArray.dll
